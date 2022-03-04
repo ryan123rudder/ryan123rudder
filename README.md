@@ -2,7 +2,4 @@
 - 👀 I’m interested in game development, AI, and Machine Learning
 - 🌱 I’m currently learning CS50 AI with Python
 
-<!---
-ryan123rudder/ryan123rudder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Github is a collection of personal projects and larger team projects. Feel free to contribute to any public projects!
