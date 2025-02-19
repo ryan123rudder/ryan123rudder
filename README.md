@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ryan123rudder
-- 👀 I’m interested in Robotics, Embedded Systems, and Aerospace
-- 🌱 I’m currently studying at Colorado School of Mines
+Hello! My name is Ryan Manley. I’m interested in Robotics, Embedded Systems, and Flight Software, and I’m currently studying Computer Science at Colorado School of Mines.
 
 My Github is a collection of personal and group projects. Most of them have to remain private unfortunately.
 
